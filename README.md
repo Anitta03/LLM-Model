@@ -8,3 +8,7 @@ OpenaiApi Langchain Q&A
   
 
 
+
+
+https://github.com/Anitta03/LLM-Model/assets/64519794/ce8fbb8a-f18d-4889-9027-40f2067c1a4b
+
